@@ -1,0 +1,5 @@
+{
+	"host": "identify-eu-west-1.acrcloud.com",
+	"access_key": "cb31c493bfc4b85bf2629ac7839021d2",
+	"access_secret": "wjn9plBaOkJLp2g2kZQrK27CXGQjouKn3pEigxyU"
+}
